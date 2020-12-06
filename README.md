@@ -1,15 +1,12 @@
 # AutoWLAN
-#### by @guille_hartek on [Follow the White Rabbit](https://fwhibbit.es)
+#### created by @guille_hartek on [Follow the White Rabbit](https://fwhibbit.es)
 
-![](cover.png)
 
 This project will allow you run a portable access point on a Raspberry Pi making use of _Docker_ containers. 
 
 Further reference and explanations: 
 
-<https://fwhibbit.es/en/automatic-access-point-with-docker-and-raspberry-pi-zero-w>
-
-Tested on Raspberry Pi Zero W.
+Tested on Raspberry Pi 4 (ARM V7)
 
 ### Access point configurations
 You can customize the network password and other configurations on files at _confs/hostapd_confs/_. You can also add your own _hostapd_ configuration files here. 

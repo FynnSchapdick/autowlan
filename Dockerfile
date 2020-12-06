@@ -1,4 +1,4 @@
-from arm32v6/alpine
+from arm32v7/alpine
 
 # Install packages
 RUN apk update && apk add hostapd iw dhcp vim iptables
